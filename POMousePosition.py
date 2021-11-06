@@ -1,5 +1,8 @@
+# Import The Relevant Modules
 import pyautogui
-import sys
+import time
+
+#time.sleep(3)
 
 print('Press Ctrl + C to Quit')
 try:
